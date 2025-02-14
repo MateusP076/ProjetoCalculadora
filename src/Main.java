@@ -12,5 +12,6 @@ public class Main {
         nm.setNum2(contador.nextInt());
         nm.Calcmedia();
         nm.Exibemedia();
+        contador.close();
     }
 }
