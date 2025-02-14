@@ -10,7 +10,7 @@ public class Main {
         nm.setNum1(contador.nextInt());
         System.out.println("Digite sua segunda nota: ");
         nm.setNum2(contador.nextInt());
-        nm.Calcmedia(); 
+        nm.Calcmedia();
         nm.Exibemedia();
     }
 }

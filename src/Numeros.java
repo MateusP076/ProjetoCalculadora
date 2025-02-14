@@ -41,7 +41,7 @@ public class Numeros {
     public void Exibemedia(){
         if (media<3){
             System.out.println("Reprovado chefe");
-        } else if(media>=3.5 && media<=4.9){
+        } else if(media>=3 && media<=4.95){
             System.out.println("Você esta de exame");
         }  else if (media>=4.9){
             System.out.println("Você esta aprovado");
